@@ -9,7 +9,7 @@ site_theme               : "default"
 title                    : "Rui Pan"
 title_separator          : "-"
 name                     : &name "Rui Pan"
-description              : &description "Ph.D. Student at Southeast University"
+description              : &description "Ph.D. Student at Southeast University, specializing in Wireless Communication Network Security"
 url                      : https://pan-rui0507.github.io
 baseurl                  : ""
 repository               : "Pan-Rui0507/Pan-Rui0507.github.io"
