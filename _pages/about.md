@@ -1,14 +1,10 @@
 ---
 permalink: /
-title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-About Me
-======
 
 I am a Ph.D. student at [Southeast University](https://www.seu.edu.cn/), Nanjing, China. My research interests focus on wireless communication network security, particularly in Radio Frequency Fingerprint Identification (RFFI) and physical layer authentication.
 
