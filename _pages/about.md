@@ -21,8 +21,8 @@ Research Interests
 
 Education
 ------
-- **Ph.D. Student**, Southeast University, 2024 - Present
-- **M.E.**, University of Electronic Science and Technology of China (UESTC), 2022 - 2024
+- **Ph.D. Student**, Southeast University, 2025 - Present
+- **M.E.**, University of Electronic Science and Technology of China (UESTC), 2022 - 2025
 - **B.E.**, Ningbo University, 2018 - 2022
 
 Publications
