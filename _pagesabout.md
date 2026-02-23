@@ -3,7 +3,6 @@ permalink: /
 title: "Rui Pan"
 author_profile: true
 redirect_from: 
-  - /about/
   - /about.html
 ---
 
