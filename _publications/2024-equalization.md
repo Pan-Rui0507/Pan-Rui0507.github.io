@@ -7,5 +7,6 @@ excerpt: 'Radio frequency fingerprint identification (RFFI) has gained popularit
 date: 2024-07-01
 venue: 'IEEE Wireless Communications Letters'
 paperurl: 'https://ieeexplore.ieee.org/document/10509594'
+bibtexurl: '/files/equalization2024.bib'
 citation: 'R. Pan, H. Chen, H. Chen and W. Wang, "Equalization-Assisted Domain Adaptation for Radio Frequency Fingerprint Identification," <i>IEEE Wireless Communications Letters</i>, vol. 23, no. 7, pp. 1-5, July 2024, doi: 10.1109/LWC.2024.3393922.'
 ---
